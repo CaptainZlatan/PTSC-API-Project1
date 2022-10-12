@@ -1,0 +1,93 @@
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\bin\Debug\PG_PartName.exe.config
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\bin\Debug\PG_PartName.exe
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\bin\Debug\PG_PartName.pdb
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Dialog.dll
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.dll
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Drawing.dll
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Model.dll
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\obj\Debug\PG_PartName.Form1.resources
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\obj\Debug\PG_PartName.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.CopyComplete
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\obj\Debug\PG_PartName.exe
+C:\Users\Administrator\source\repos\PG_PartName\PG_PartName\obj\Debug\PG_PartName.pdb
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\bin\Debug\PG_PartName.exe.config
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\bin\Debug\PG_PartName.exe
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\bin\Debug\PG_PartName.pdb
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\bin\Debug\Tekla.Common.Geometry.dll
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Dialog.dll
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.dll
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Drawing.dll
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Model.dll
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Plugins.dll
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csprojAssemblyReference.cache
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.Form1.resources
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.Properties.Resources.resources
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.GenerateResource.cache
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.CoreCompileInputs.cache
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.CopyComplete
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.exe
+\\172.16.39.223\Data\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.pdb
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\bin\Debug\PG_PartName.exe.config
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\bin\Debug\PG_PartName.exe
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\bin\Debug\PG_PartName.pdb
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Dialog.dll
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.dll
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Drawing.dll
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Model.dll
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\obj\Debug\PG_PartName.Form1.resources
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\obj\Debug\PG_PartName.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.CopyComplete
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\obj\Debug\PG_PartName.exe
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\obj\Debug\PG_PartName.pdb
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\bin\Debug\Tekla.Common.Geometry.dll
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\bin\Debug\PG_PartName.exe.config
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\bin\Debug\PG_PartName.exe
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\bin\Debug\PG_PartName.pdb
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.dll
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Drawing.dll
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Model.dll
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Plugins.dll
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\bin\Debug\Tekla.Common.Geometry.dll
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Dialog.dll
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.Form1.resources
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.Properties.Resources.resources
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.GenerateResource.cache
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.CoreCompileInputs.cache
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.CopyComplete
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.exe
+D:\04. STUDY\Tekla API\02. Bai_tap_API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.pdb
+Y:\Share\TCTHANH\API\PG_PartName\PG_PartName\bin\Debug\PG_PartName.exe.config
+Y:\Share\TCTHANH\API\PG_PartName\PG_PartName\bin\Debug\PG_PartName.exe
+Y:\Share\TCTHANH\API\PG_PartName\PG_PartName\bin\Debug\PG_PartName.pdb
+Y:\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.Form1.resources
+Y:\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.Properties.Resources.resources
+Y:\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.GenerateResource.cache
+Y:\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.CoreCompileInputs.cache
+Y:\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.exe
+Y:\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.pdb
+C:\Users\Administrator\Desktop\DRAFT\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csprojAssemblyReference.cache
+Y:\Share\TCTHANH\API\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csprojAssemblyReference.cache
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\obj\Debug\PG_PartName.Form1.resources
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\obj\Debug\PG_PartName.Properties.Resources.resources
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.GenerateResource.cache
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.CoreCompileInputs.cache
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\bin\Debug\PG_PartName.exe.config
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\bin\Debug\PG_PartName.exe
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\bin\Debug\PG_PartName.pdb
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.dll
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Drawing.dll
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Model.dll
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Plugins.dll
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\bin\Debug\Tekla.Common.Geometry.dll
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\bin\Debug\Tekla.Structures.Dialog.dll
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csproj.CopyComplete
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\obj\Debug\PG_PartName.exe
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\obj\Debug\PG_PartName.pdb
+D:\04. STUDY\Tekla API\05. APPLICATION\PG_PartName\PG_PartName\obj\Debug\PG_PartName.csprojAssemblyReference.cache
